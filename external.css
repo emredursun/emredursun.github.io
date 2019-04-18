@@ -1,0 +1,166 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 220%;
+    text-align: justify;
+    color: #333;
+    background-color: #b8bbb2;
+    
+   
+}
+ 
+
+#side-table {
+  
+  margin-top: 100px;
+  margin-right: 1%;
+  overflow: hidden;
+  
+}
+ 
+.side-table-head{
+  text-align:center;
+  font-family: libertine;
+  font-size: 29px;
+    color: black;
+    background: none;
+    font-weight: bold;
+    margin: 0;
+    overflow: hidden;
+    padding-top: 0.5em;
+    padding-bottom: 0.2em;
+    border-bottom: 3px solid gray;
+    
+}
+   
+.side-table-images {
+  margin: 5px 3px 0px 10px;
+  padding-bottom: 0px;
+  padding-top: 3px;
+  text-align: center;
+
+}
+
+a:visited {
+  color: brown;
+}
+
+a:hover {
+  color: red;
+}
+
+h4 a:visited {
+  color: brown;
+}
+
+h4 a:hover {
+  color: white;
+}
+
+
+
+h4 {
+  margin: 0px;
+  text-align: center;
+  padding: 0px;
+}
+
+.middle-body {
+  border: 1px solid #E0E0E0;
+  padding: 20px;
+  margin-left: 5%;
+  margin-right: 1%;
+  margin-bottom: 3%;
+  max-width: 60%;
+  background: #E0E0E0;
+  float: left;
+	
+}
+
+
+h1 {
+  
+  padding: 33px;
+  margin: 33px;
+  background: #E0E0E0;
+  text-align:center;
+  font-family: algerian;
+  font-size: 51px;
+  height: auto;
+  width: auto;
+  
+}
+
+h2 {
+  text-align:left;
+  font-family: libertine;
+  font-size: 29px;
+    color: black;
+    background: none;
+    font-weight: bold;
+    margin: 0;
+    overflow: hidden;
+    padding-top: 0.5em;
+    padding-bottom: 0.17em;
+    border-bottom: 1px solid #a2a9b1;
+}
+
+h3 {
+  text-align: left;
+  font-family: Georgia;
+  color: brown;
+}
+
+.autonomous-car-photo {
+    text-align: center;
+    display: block;
+    position: relative;
+    margin: 5px;
+}
+
+.paragraphs-h2 {
+  font-family: "Proxima", "Linux", "Libertine", "Georgia", "Times", serif;
+  font-size: 19px;
+  }
+
+.SAE-Autonomy-Levels {
+  text-align: center;
+  position: relative;
+  margin: auto;
+  border: 3px solid white;
+}
+  
+.driver-levels {
+    font-family: 'tungsten',proxima-nova,ProximaNova-Bold,HelveticaNeue-Bold,'Helvetica Neue Bold','Helvetica Neue',Helvetica,Arial,'Lucida Grande',sans-serif;
+  
+    font-size: 23px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 33px;
+    border-top: 1px solid #a2a9b1;
+    overflow: hidden;
+    
+  
+}
+
+.driver-levels-photos{
+  float: right;
+  position: relative;
+  overflow: hidden;
+  margin-left: 1%;
+  margin-bottom: 1%;
+  
+}
+
+.paragraphs-h3{
+  font-family: "Proxima", "Linux", "Libertine", "Georgia", "Times", serif;
+  font-size: 17px;
+  max-height: 400px;
+  width: 330px;
+  margin-top: 0px;
+  overflow: hidden;
+  
+}
+
+
